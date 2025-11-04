@@ -1,2 +1,2 @@
-# SENATI-Python
+# SENATI-Python2
 Pruebas en clase de programacion / CIBERSEGURIDAD :)
